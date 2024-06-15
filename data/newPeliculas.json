@@ -1,0 +1,50 @@
+[
+    {
+        "id": "4",
+        "nombre": "300",
+        "director": "Zack Snyder",
+        "clasificacion": "4",
+        "valoracion": "3",
+        "cartel": "300.jpeg"
+    },
+    {
+        "id": "6",
+        "nombre": "Forrest Gump",
+        "director": "Robert Zemeckis",
+        "clasificacion": "2",
+        "valoracion": "2",
+        "cartel": "http:\/\/localhost:3000\/html\/assets\/img\/Forrest_Gump.jpeg"
+    },
+    {
+        "id": "2",
+        "nombre": "Pulp Fiction",
+        "director": "Tarantino",
+        "clasificacion": "4",
+        "valoracion": "5",
+        "cartel": "http:\/\/localhost:3000\/html\/assets\/img\/Pulp_Fiction.jpeg"
+    },
+    {
+        "id": "5",
+        "nombre": "El silencio de los corderos",
+        "director": "Jonathan Demme",
+        "clasificacion": "1",
+        "valoracion": "3",
+        "cartel": "http:\/\/localhost:3000\/html\/assets\/img\/El_silencio_de_los_corderos.jpeg"
+    },
+    {
+        "id": "7",
+        "nombre": "Las Hurdes",
+        "director": "Luis Bu\u00f1uel",
+        "clasificacion": "3",
+        "valoracion": "4",
+        "cartel": "http:\/\/localhost:3000\/html\/assets\/img\/Las_Hurdes.jpeg"
+    },
+    {
+        "id": "4",
+        "nombre": "300",
+        "director": "Zack Snyder",
+        "clasificacion": "4",
+        "valoracion": "3",
+        "cartel": "http:\/\/localhost:3000\/html\/assets\/img\/300.jpeg"
+    }
+]
